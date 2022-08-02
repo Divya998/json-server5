@@ -2,37 +2,37 @@
   [{
     "maintenanceGroup":"Air Conditioning",
     "type":"Fridge not cooling",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
     "type":"Leaking",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
     "type":"Not working",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
     "type":"Other",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
     "type":"Too Cold",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
     "type":"Too Hot",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
     "type":"Too Much Air",
-    "active":"true"
+    "active":true
 }
 ],
   "mainbriefgrouptyped":
@@ -40,7 +40,7 @@
     "maintenanceGroup":"Air Conditioning",
     "type":"Fridge not cooling",
     "briefDescription":"Fridge not cooling",
-    "active":"true"
+    "active":true
 },
 {
     "maintenanceGroup":"Air Conditioning",
